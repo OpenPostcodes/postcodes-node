@@ -1,0 +1,21 @@
+{
+  "name": "postcodes",
+  "version": "0.1.0",
+  "description": "Postcode lookup API for UK addresses from Open Postcodes, more information at https://openpostcodes.com",
+  "main": "lib/index.js",
+  "homepage": "https://openpostcodes.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenPostcodes/postcodes-node.git"
+  },
+  "dependencies": {}
+  "keywords": [
+    "UK",
+    "Address",
+    "Postcode",
+    "API"
+  ],
+  "author": "Open Postcodes",
+  "license": "Public Domain",
+  "readmeFilename": "README.md"
+}
